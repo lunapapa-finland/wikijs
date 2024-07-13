@@ -2,7 +2,7 @@
 title: Option
 description: 
 published: true
-date: 2024-07-13T15:36:41.425Z
+date: 2024-07-13T15:37:20.889Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-23T07:08:42.817Z
@@ -10,7 +10,7 @@ dateCreated: 2024-06-23T07:08:42.817Z
 
 # Homepage for Option
 
-## Introduction
+## Overview
 
 Welcome to the documentation for our Options trading strategies and concepts. This document provides an overview of various topics related to options, including foundational concepts, advanced strategies, and specific option types like calls and puts. Each section is linked to its detailed explanation.
 
