@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T11:20:52.915Z
+date: 2024-08-17T11:27:49.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -14,4 +14,6 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - Signal Bars and setups are weak
 - Trends are weak 
 - Things that look bad are not as bad(No Trend); Things that look good are not as good(No Trend)
-- 2nd leg trap
+- 2nd leg trap and vacuums, offen looks strong just before reversal
+- Strong BO while it fails, lack of follow-through
+- **Pull-back Usually returns back and fall below/above the BO bar(Two Bars reversal), BUT you still need to check the how strong the BO and PB pairs are. Two Bars reversal could potentially lead to TR, but it is not guaranteed to be that!!**
