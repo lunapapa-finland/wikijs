@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T11:51:52.596Z
+date: 2024-08-17T11:58:06.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -21,3 +21,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - In the TR, there will be some setups like swing up/down and deep PB reversely
 - TR in small time frame could be a PB or leg in the higher time frame, that is why higher time frame is always used to determine the S/R, while the lower time frame is use to determine the time to open/close position
 - only trade the direction of the TREND with a short length of time forming the TR.
+- minimum for TR: 2 legs and 20 bars
