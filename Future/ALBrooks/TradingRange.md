@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T10:48:11.759Z
+date: 2024-08-17T10:49:45.755Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -13,4 +13,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - Big UP, Big DOWN, BIG Confusion
 - Signal Bars and setups are weak
 - Trends are weak 
-- 
+- Things that look bad are not as bad(No Trend)
