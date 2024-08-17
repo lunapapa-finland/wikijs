@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T13:04:08.988Z
+date: 2024-08-17T13:48:01.141Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -34,4 +34,5 @@ dateCreated: 2024-08-17T10:32:34.796Z
   - if the price goes beyond, the only time to scale in is the price beyond the scalp length, e.g. ES 5 point, NQ 20 points
   - The next scalp in should be stop order instead of limit order to add winning probability
   - In order to AT LEAST get 1 entry break even and second entry scalp profit
+- Bull BO above bull Channel, 75% fail within 5 Bars.(This is just the probability, sometimes, Strong trend -> weak trend -> BO could lead to another strong trend, but still, you'd better look at the S/R at higher timegframe)
  
