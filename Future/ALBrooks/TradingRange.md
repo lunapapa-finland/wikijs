@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T11:58:50.258Z
+date: 2024-08-17T12:00:31.200Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -22,3 +22,6 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - TR in small time frame could be a PB or leg in the higher time frame, that is why higher time frame is always used to determine the S/R, while the lower time frame is use to determine the time to open/close position
 - only trade the direction of the TREND with a short length of time forming the TR.
 - minimum for TR: 3 legs(e.g. leg up/down/up) and 20 bars
+	- Leg down, so pullback in Bull Trend
+  - Leg up, BO of Bull Flag, Trend Resumption
+  - As soon as 3rd leg down falls below strong bull BO, and PB has at least 20 bars, Now in TR
