@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T12:57:17.023Z
+date: 2024-08-17T13:02:19.040Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -30,4 +30,8 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - equal chance of trend resumption up and trend reversal down, there is always but and sell setups in TR
 - TR never have a very clear S/R, they are the range. That's why 1/4 buy and sell is always reasonable than extreme values
 - use WIDE Stops and Scale IN(Only if you believe in TR)
+	- Can use limit Order for scale in
+  - if the price goes beyond, the only time to scale in is the price beyond the scalp length, e.g. ES 5 point, NQ 20 points
+  - The next scalp in should be stop order instead of limit order to add winning probability
+- 
  
