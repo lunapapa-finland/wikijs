@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T10:50:09.629Z
+date: 2024-08-17T11:20:52.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -14,3 +14,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - Signal Bars and setups are weak
 - Trends are weak 
 - Things that look bad are not as bad(No Trend); Things that look good are not as good(No Trend)
+- 2nd leg trap
