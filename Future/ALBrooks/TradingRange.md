@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T12:55:41.688Z
+date: 2024-08-17T12:56:43.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -29,4 +29,5 @@ dateCreated: 2024-08-17T10:32:34.796Z
   - As soon as 3rd leg down falls below strong bull BO, and PB has at least 20 bars, Now in TR
 - equal chance of trend resumption up and trend reversal down, there is always but and sell setups in TR
 - TR never have a very clear S/R, they are the range. That's why 1/4 buy and sell is always reasonable than extreme values
+- use WIDE Stops and Scale IN
  
