@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T11:42:06.606Z
+date: 2024-08-17T11:48:11.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -19,3 +19,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - **Pull-back Usually returns back and fall below/above the BO bar(Two Bars reversal), BUT you still need to check the how strong the BO and PB pairs are. Two Bars reversal could potentially lead to TR, but it is not guaranteed to be that!! IF, PBs go back FAR beyond the BO start, there is a high probability that it becomes back to a TR**
 - There is NO GAP(GAP will be closed)
 - In the TR, there will be some setups like swing up/down and deep PB reversely
+- TR in small time frame could be a PB or leg in the higher time frame, that is why higher time frame is always used to determine the S/R, while the lower time frame is use to determine the time to open/close position
