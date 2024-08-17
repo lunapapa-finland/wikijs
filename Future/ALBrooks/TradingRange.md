@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T14:23:45.439Z
+date: 2024-08-17T15:01:50.572Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -36,5 +36,5 @@ dateCreated: 2024-08-17T10:32:34.796Z
   - In order to AT LEAST get 1 entry break even and second entry scalp profit
 - Bull BO above bull Channel, 75% fail within 5 Bars(which mean the bad follow through bar, high chance to form Micro DT. Head-Shoulder-Head, 2nd entry has more probability to win).(This is just the probability, sometimes, Strong trend -> weak trend -> BO could lead to another strong trend, but still, you'd better look at the S/R at higher timegframe)
 - If the trend is a tight channel, expect more trend instead of trend reversal, lower probability to return back to the start of the channel and form a TR.
-- 
+- **Dead Money**: When price falls sharply on daily, weekly, or monthly chart, often goes sideways, for 20 or more bars, in a tight trading range, which is NOT suitable for trading!! Imagine a big sell off for consecutive bars, the probability of direct reversal is LOW, on the other hand, it is high probability to form a TR or even a TTR, which is not suitable for trading!
  
