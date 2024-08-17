@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-17T12:00:51.917Z
+date: 2024-08-17T12:02:18.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -25,5 +25,5 @@ dateCreated: 2024-08-17T10:32:34.796Z
 	- Leg down, so pullback in Bull Trend
   - Leg up, BO of Bull Flag, Trend Resumption
   - As soon as 3rd leg down falls below strong bull BO, and PB has at least 20 bars, Now in TR
-- 
+- equal chance of trend resumption up and trend reversal down, there is always but and sell setups in TR
  
