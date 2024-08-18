@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-18T09:45:43.976Z
+date: 2024-08-18T09:48:25.426Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -16,6 +16,9 @@ dateCreated: 2024-08-17T10:32:34.796Z
   - consecutive big trend bars
   - no tails or relatively small tails
   - even PB, PB bar should be small, better less than half of the BO bar
+- **Early sign of the BO**
+	- series of consecutive trend bars up and down in small timeframe with swing pattern(consecutive LH or HL) without hesitation
+  - the trend before forming a TR(usually should less than 20 bars in the same timeframe)
 - Pull back more than 20 bars, prefer to be TR and Neutral, prior trend too far in past, lost almost all influence
 - Big UP, Big DOWN, BIG Confusion
 - Signal Bars and setups are weak
