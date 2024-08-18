@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-18T09:28:13.756Z
+date: 2024-08-18T09:41:53.482Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -11,7 +11,11 @@ dateCreated: 2024-08-17T10:32:34.796Z
 # Trading Range
 
 - BLSHS
-- DO NOT BET ON BO!
+- DO NOT BET ON BO! BO usually stands for
+	- Big Breakout Bar, larger than the past several bars
+  = consecutive big trend bars
+  - no tails or relatively small tails
+  - even PB, PB bar should be small, better less than half of the BO bar
 - Pull back more than 20 bars, prefer to be TR and Neutral, prior trend too far in past, lost almost all influence
 - Big UP, Big DOWN, BIG Confusion
 - Signal Bars and setups are weak
