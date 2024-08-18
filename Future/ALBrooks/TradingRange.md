@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-18T09:41:53.482Z
+date: 2024-08-18T09:44:58.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
