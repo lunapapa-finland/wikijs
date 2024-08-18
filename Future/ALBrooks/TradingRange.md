@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-18T07:54:15.995Z
+date: 2024-08-18T07:56:53.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -38,4 +38,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - If the trend is a tight channel, expect more trend instead of trend reversal, lower probability to return back to the start of the channel and form a TR.
 - **Dead Money**: When price falls sharply on daily, weekly, or monthly chart, often goes sideways, for 20 or more bars, in a tight trading range, which is NOT suitable for trading!! Imagine a big sell off for consecutive bars, the probability of direct reversal is LOW, on the other hand, it is high probability to form a TR or even a TTR, which is not suitable for trading!
 - **Strong BO, GOOD follow through, high probability of moer rally
-- There is a little bit high probability that at the end of the trend(Strong Trend), if TTR shows up and form some pattern like DT, it could lead to a DT LH MTR, NOTE that entry shold always depends on the actual setups like, fail BO of DT!!
+- There is a little bit high probability that at the end of the trend(Strong Trend), if TTR shows up and form some pattern like DT, it could lead to a DT LH MTR, NOTE that entry shold always depends on the actual setups like, fail BO of DT!! **AND if it happens, expecting 2nd Leg!(i.e. trapped-in loser will stop loss if price goes back and trapped-out trader will limit buy since they did not enter the position!)**
