@@ -2,7 +2,7 @@
 title: Trading Range
 description: 
 published: true
-date: 2024-08-18T08:25:57.473Z
+date: 2024-08-18T08:41:55.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-17T10:32:34.796Z
@@ -40,3 +40,4 @@ dateCreated: 2024-08-17T10:32:34.796Z
 - **Strong BO, GOOD follow through, high probability of moer rally
 - There is a little bit high probability that at the end of the trend(Strong Trend), if TTR shows up and form some pattern like DT, it could lead to a DT LH MTR, NOTE that entry shold always depends on the actual setups like, fail BO of DT!! **AND if it happens, expecting 2nd Leg!(i.e. trapped-in loser will stop loss if price goes back and trapped-out trader will limit buy since they did not enter the position!)**
 - **Vaccum Effect** at Top and Bottom of the TR: Once the market gets close to the top and bottom of the TR, it is within gravitational field of edge of range. Closer it gets, stronger magnetic pull and FASTER market moves!!
+- Perverse Logic(Making a TRAP): at top, strong bears(institutions for example), are very confident of reversal down, they buy just below top, to CREATE strong BUY Climax and then sell to create a reversal down, trapping traders with less experiences who is bullish
