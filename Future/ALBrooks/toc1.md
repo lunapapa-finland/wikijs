@@ -1,8 +1,8 @@
 ---
-title: Price Action Fundamental
+title: ToC - Price Action Fundamental
 description: 
 published: true
-date: 2024-08-24T18:21:17.293Z
+date: 2024-08-24T18:21:54.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T18:16:21.838Z
