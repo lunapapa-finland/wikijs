@@ -2,7 +2,7 @@
 title: ToC - Price Action Fundamental
 description: 
 published: true
-date: 2024-08-24T18:28:38.742Z
+date: 2024-08-24T18:28:47.450Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T18:16:21.838Z
@@ -26,7 +26,6 @@ dateCreated: 2024-08-24T18:16:21.838Z
 │   ├── .Video 06 Personality Traits of Successful Traders.mp4.icloud
 │   ├── .Video 07A Starting Out.mp4.icloud
 │   └── .Video 07B Starting Out.mp4.icloud
-├── 1.txt
 ├── 2 Charting Analysis (08-11) New videos
 │   ├── .Video 08A Candles, Setups, and Signal Bars.mp4.icloud
 │   ├── .Video 08B Candles, Setups, and Signal Bars.mp4.icloud
