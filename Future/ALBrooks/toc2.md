@@ -1,8 +1,8 @@
 ---
-title:  ToC 2 - How to Trade Price Action 
+title:  ToC - How to Trade Price Action 
 description: 
 published: true
-date: 2024-08-24T18:25:31.247Z
+date: 2024-08-24T18:25:52.603Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T18:25:31.247Z
