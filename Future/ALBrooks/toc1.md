@@ -2,7 +2,7 @@
 title: ToC - Price Action Fundamental
 description: 
 published: true
-date: 2024-08-24T18:21:54.128Z
+date: 2024-08-24T18:28:38.742Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T18:16:21.838Z
@@ -68,12 +68,12 @@ dateCreated: 2024-08-24T18:16:21.838Z
 │   ├── .Video 16F Channels.mp4.icloud
 │   ├── .Video 17A Tight Channels & Micro Channels.mp4.icloud
 │   ├── .Video 17B Tight Channels & Micro Channels.mp4.icloud
-│   ├── .Video 18A Trading Ranges.mp4.icloud
+~~│   ├── .Video 18A Trading Ranges.mp4.icloud
 │   ├── .Video 18B Trading Ranges.mp4.icloud
 │   ├── .Video 18C Trading Ranges.mp4.icloud
 │   ├── .Video 18D Trading Ranges.mp4.icloud
 │   ├── .Video 18E Trading Ranges.mp4.icloud
-│   └── .Video 18F Trading Ranges.mp4.icloud
+│   └── .Video 18F Trading Ranges.mp4.icloud~~
 ├── 4 Support, Resistance, and Basic Patterns (19-29)
 │   ├── .Video 20A Measured moves.mp4.icloud
 │   ├── .Video 20B Measured moves.mp4.icloud
@@ -102,11 +102,11 @@ dateCreated: 2024-08-24T18:16:21.838Z
 │   ├── .Video 29C Climaxes.mp4.icloud
 │   ├── .Video 29D Climaxes.mp4.icloud
 │   ├── .Video 29E Climaxes.mp4.icloud
-│   ├── Video 19A Support and Resistance.mp4
+~~│   ├── Video 19A Support and Resistance.mp4
 │   ├── Video 19B Support and Resistance.mp4
 │   ├── Video 19C Support and Resistance.mp4
 │   ├── Video 19D Support and Resistance.mp4
-│   └── Video 19E Support and Resistance.mp4
+│   └── Video 19E Support and Resistance.mp4~~
 └── 5 How to Trade Prerequisites (30-36)
     ├── .Video 30A Trader’s Equation and Probability.mp4.icloud
     ├── .Video 30B Trader’s Equation and Probability.mp4.icloud
