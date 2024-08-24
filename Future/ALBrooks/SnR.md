@@ -2,7 +2,7 @@
 title: Support and Resistance
 description: 
 published: true
-date: 2024-08-24T18:05:03.908Z
+date: 2024-08-24T18:06:44.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-18T10:21:31.352Z
@@ -14,7 +14,7 @@ dateCreated: 2024-08-18T10:21:31.352Z
 
 - Forex S/R never exact since every broker has own data, while Emini is identical from the data perspective.
 - Prior H/L often tested after BO - BO PB
-- Extreme Price at the Climax in the late of the trend could be the S/R(magnet) and form the second entry. 
+- Extreme Price at the Climax in the late of the trend could be the S/R(magnet) and form the second entry. (Usually cannot prevent rally from going above at least the extreme value of the climax bar)
 
 
 ## In regards to the options call/put wall
