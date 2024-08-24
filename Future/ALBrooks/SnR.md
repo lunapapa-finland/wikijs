@@ -2,7 +2,7 @@
 title: Support and Resistance
 description: 
 published: true
-date: 2024-08-24T15:21:34.963Z
+date: 2024-08-24T15:25:44.701Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-18T10:21:31.352Z
@@ -10,6 +10,6 @@ dateCreated: 2024-08-18T10:21:31.352Z
 
 # Support and Resistance
 - S/R could be Top/Bottom of the TR, MAs,Trend Lines, Trend Channel Lines, Prior Highs and Lows(Swing High/Low), Measured Move Projections, **Round Numbers**, etc. Which is important is highly depending on the context!
-- Most Round Numbers are option strike prices, Emini is about 10X SPY, so EMINI is close to the SPY 211. Every 10 points in Emini is around number S/R
+- Most Round Numbers are option strike prices, Emini is about 10X SPY, so EMINI is close to the SPY 211. Every 10 points in Emini is around number S/R. Institutions sell options, so they want them to lose value. They trade options, and underlying, to make options expire worthless. This means at strike prices, so strike prices are magnets(S/R)
 - Forex S/R never exact since every broker has own data, while Emini is identical from the data perspective.
 - Prior H/L often tested after BO - BO PB
