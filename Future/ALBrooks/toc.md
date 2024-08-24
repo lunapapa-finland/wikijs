@@ -1,8 +1,8 @@
 ---
-title: Table of Content
+title: Price Action Fundamental
 description: 
 published: true
-date: 2024-08-24T18:20:18.029Z
+date: 2024-08-24T18:21:17.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T18:16:21.838Z
