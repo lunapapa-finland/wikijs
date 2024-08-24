@@ -2,7 +2,7 @@
 title: Support and Resistance
 description: 
 published: true
-date: 2024-08-24T15:49:02.463Z
+date: 2024-08-24T18:04:35.525Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-18T10:21:31.352Z
@@ -14,6 +14,7 @@ dateCreated: 2024-08-18T10:21:31.352Z
 
 - Forex S/R never exact since every broker has own data, while Emini is identical from the data perspective.
 - Prior H/L often tested after BO - BO PB
+- Extreme Price at the Climax in the late of the trend could be the S/R and form the second entry
 
 
 ## In regards to the options call/put wall
