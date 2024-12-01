@@ -2,7 +2,7 @@
 title: Sourcing Strategies
 description: 
 published: true
-date: 2024-12-01T14:06:12.425Z
+date: 2024-12-01T14:16:39.435Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T14:06:12.425Z
@@ -118,3 +118,12 @@ dateCreated: 2024-12-01T14:06:12.425Z
   Build credibility and attract inbound inquiries.
 - **Tip:**  
   Include a contact form for project-specific inquiries.
+ 
+## 11. Public and Private Project Announcements
+- **What to Do:**  
+  Monitor municipal or city planning announcements for local projects.
+  Check real estate development companies that may need fencing and security solutions for their properties.
+  Track stadium construction companies and concert venue developers for perimeter protection projects.
+
+
+---
