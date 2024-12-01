@@ -2,13 +2,12 @@
 title: Cold Connection
 description: 
 published: true
-date: 2024-12-01T16:32:02.184Z
+date: 2024-12-01T16:32:31.081Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:32:02.184Z
 ---
 
-```markdown
 # Practical Strategy for Cold Calling Potential Customers After Email Follow-Ups
 
 Making a cold call to a potential customer requires preparation, professionalism, and confidence. Below is a step-by-step guide, complete with hints and a practical script, to help you approach this task effectively.
@@ -90,4 +89,3 @@ Making a cold call to a potential customer requires preparation, professionalism
    Keep the lines of communication open, even if they aren’t ready to commit immediately.
 
 By being respectful, confident, and value-driven, you can leave a positive impression, even if the call doesn’t yield immediate results.
-```
