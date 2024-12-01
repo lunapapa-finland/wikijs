@@ -1,8 +1,8 @@
 ---
-title: Sourcing Strategies
+title: Sourcing Strategy 1
 description: 
 published: true
-date: 2024-12-01T14:43:02.838Z
+date: 2024-12-01T16:25:03.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T14:06:12.425Z
