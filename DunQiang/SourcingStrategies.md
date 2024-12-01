@@ -2,7 +2,7 @@
 title: Sourcing Strategies
 description: 
 published: true
-date: 2024-12-01T14:16:39.435Z
+date: 2024-12-01T14:18:21.706Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T14:06:12.425Z
@@ -121,9 +121,16 @@ dateCreated: 2024-12-01T14:06:12.425Z
  
 ## 11. Public and Private Project Announcements
 - **What to Do:**  
-  Monitor municipal or city planning announcements for local projects.
-  Check real estate development companies that may need fencing and security solutions for their properties.
-  Track stadium construction companies and concert venue developers for perimeter protection projects.
+  * Monitor municipal or city planning announcements for local projects.
+  * Check real estate development companies that may need fencing and security solutions for their properties.
+  * Track stadium construction companies and concert venue developers for perimeter protection projects.
 
+---
 
+## 12. Focus on Verticals with High Demand for Fencing & Mesh
+- **What to Do:**  
+  * Agricultural Sector: Partner with farming equipment suppliers or agricultural associations.
+  * Infrastructure Projects: Target companies involved in highways, bridges, airports, and railway projects.
+  * Energy & Utility Companies: Engage with solar farms, wind farms, and power station projects requiring specialized fencing.
+  * Private Security & Industrial Parks: Look for firms managing logistics hubs, industrial zones, or secure facilities.
 ---
