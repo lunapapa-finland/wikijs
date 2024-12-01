@@ -2,7 +2,7 @@
 title: Sourcing Strategies
 description: 
 published: true
-date: 2024-12-01T14:20:30.365Z
+date: 2024-12-01T14:20:37.412Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T14:06:12.425Z
@@ -58,7 +58,7 @@ dateCreated: 2024-12-01T14:06:12.425Z
 ## 5. Monitor Local City Planning Announcements
 - **What to Do:**  
   * Check city or municipal websites in the EU for announced projects involving infrastructure, parks, or buildings.  
-  * National Public Procurement Portals: For tenders below certain thresholds, EU countries may publish notices on their national procurement portals. Monitoring these portals can provide additional opportunities. Each country has its own portal; for example, Finland's is **HILMA**.
+  * National Public Procurement Portals: For tenders below certain thresholds, EU countries may publish notices on their national procurement portals. Monitoring these portals can provide additional opportunities. Each country has its own portal; for example, Finland's is **HILMA** 
   
 - **Why:**  
   Spot smaller-scale projects not listed on international platforms.
