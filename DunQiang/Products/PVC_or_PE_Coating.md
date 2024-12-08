@@ -2,7 +2,7 @@
 title: PVC or PE Coating
 description: 
 published: true
-date: 2024-12-08T07:28:52.883Z
+date: 2024-12-08T13:32:02.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T07:28:52.883Z
