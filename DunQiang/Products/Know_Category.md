@@ -2,7 +2,7 @@
 title: Knot Category
 description: 
 published: true
-date: 2024-12-08T06:50:06.199Z
+date: 2024-12-08T06:52:46.075Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T06:50:06.199Z
@@ -33,3 +33,4 @@ dateCreated: 2024-12-08T06:50:06.199Z
      - Used in applications where strength is prioritized over flexibility.
 
 ---
+![screenshot_2024-12-08_at_08.51.46.png](/screenshot_2024-12-08_at_08.51.46.png)
