@@ -2,7 +2,7 @@
 title: Product List
 description: 
 published: true
-date: 2024-12-08T14:04:23.890Z
+date: 2024-12-08T14:07:15.986Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T13:45:57.948Z
@@ -27,11 +27,12 @@ dateCreated: 2024-12-08T13:45:57.948Z
 
 ---
 
-### **3. Industrial & Infrastructure Solutions**
+### **3. Industrial, Infrastructure & Water Management Solutions**
 - **3D Curved Wire Mesh Fencing**: Durable fencing for industrial zones, highways, and gardens.
 - **Gabion Systems**:
-  - Hexagonal Gabion Baskets for erosion control and landscaping.
-  - Reno Mattresses for slope protection and riverbank stabilization.
+  - **Hexagonal Gabion Baskets**: Erosion control and landscaping solutions.
+  - **Reno Mattresses**: Flexible and permeable systems for slope protection and riverbank stabilization.
+- **Erosion Control Solutions**: Systems designed to stabilize soil and prevent degradation in critical areas.
 
 ---
 
@@ -64,9 +65,3 @@ dateCreated: 2024-12-08T13:45:57.948Z
 
 ---
 
-### **8. Sustainable Water Management**
-- **Gabion Systems for Water Conservation**:
-  - Hexagonal Baskets and Reno Mattresses for riverbanks and canals.
-- **Erosion Control Solutions**: Advanced systems for slope and soil stabilization.
-
----
