@@ -2,7 +2,7 @@
 title: Cold Connection
 description: 
 published: true
-date: 2024-12-01T16:37:27.637Z
+date: 2024-12-10T07:36:47.341Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:32:02.184Z
