@@ -2,7 +2,7 @@
 title: Logistics
 description: 
 published: true
-date: 2024-12-10T08:29:49.015Z
+date: 2024-12-10T08:30:43.540Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T08:23:13.923Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-10T08:23:13.923Z
 
 # **Logistics Overview**
 1. **Shipping Port**:  
-   - All products are typically shipped from **[Tianjin Port](!https://www.google.com/maps/search/Tianjin+Port/@39.3861594,116.5249465,8.42z?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D)**, one of China's largest and most efficient ports, ensuring streamlined export processes and reliable global connectivity.  
+   - All products are typically shipped from **[Tianjin Port](https://www.google.com/maps/search/Tianjin+Port/@39.3861594,116.5249465,8.42z?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D)**, one of China's largest and most efficient ports, ensuring streamlined export processes and reliable global connectivity.  
    - The port's proximity to our manufacturing facility allows for reduced lead times and better logistical coordination, ensuring that shipments are dispatched promptly.  
 
 2. **Shipping Options**:  
