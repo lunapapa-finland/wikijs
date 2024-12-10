@@ -2,13 +2,13 @@
 title: Manufacturing Capability
 description: 
 published: true
-date: 2024-12-10T08:02:22.265Z
+date: 2024-12-10T08:25:13.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T08:02:22.265Z
 ---
 
-### **Manufacturing Capability Overview**
+# **Manufacturing Capability Overview**
 
 1. **Gabion**:  
    - **Capacity**: 10 machines  
