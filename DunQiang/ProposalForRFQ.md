@@ -2,7 +2,7 @@
 title: Contents of the RFQ Proposal
 description: 
 published: true
-date: 2024-12-10T08:28:11.068Z
+date: 2024-12-16T10:20:49.771Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T08:28:11.067Z
@@ -36,7 +36,7 @@ dateCreated: 2024-12-10T08:28:11.067Z
    - **Shipping Options**: FOB or CIF options with cost breakdowns.
 
 6. **Payment Terms**
-   - Standard terms (e.g., 30% deposit, 70% upon B/L copy).  
+   - Standard terms (e.g., 30% deposit, 70% upon B/L, i.e., Bill of Lading copy).  
    - Flexibility for special cases, subject to agreement.
 
 
